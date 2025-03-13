@@ -1,0 +1,10 @@
+{
+    "income": 20000.0,
+    "expenses": {
+        "Food": 100.0,
+        "Transport": 30.0,
+        "Bills": 50.0,
+        "Miscellaneous": 80.0,
+        "Total": 260.0
+    }
+}

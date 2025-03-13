@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "GIBBS269",
+        "Name": "Gibson Effiong",
+        "Department": "Software Engineering"
+    },
+    {
+        "ID": "JAC21",
+        "Name": "Jack",
+        "Department": "Hr"
+    },
+    {
+        "ID": "LOV543",
+        "Name": "Joy Lovina",
+        "Department": "Marketing"
+    },
+    {
+        "Employee Name": "Gibson Effiong",
+        "Employee ID": "GIBBS269",
+        "Department": "Ict",
+        "Salary": 30000.0
+    },
+    {
+        "Employee Name": "Joy Andrew",
+        "Employee ID": "JOY123",
+        "Department": "Marketing",
+        "Salary": 25000.0
+    },
+    {
+        "Employee Name": "Chidi Amaka",
+        "Employee ID": "CHIDI124",
+        "Department": "Human Resource",
+        "Salary": 80000.0
+    }
+]

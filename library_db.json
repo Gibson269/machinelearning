@@ -1,0 +1,65 @@
+{
+    "books": [
+        {
+            "title": "Sad Nation",
+            "author": "Bat",
+            "available": true
+        },
+        {
+            "title": "Love In The Air",
+            "author": "Facemask",
+            "available": false,
+            "borrowed_by": "Gibson"
+        },
+        {
+            "title": "Deborah ",
+            "author": "Fister Debby",
+            "available": true
+        },
+        {
+            "title": "Nigeria In Chaos",
+            "author": "Bat",
+            "available": true
+        },
+        {
+            "title": "Corrupt Nation",
+            "author": "Shetimma Shege",
+            "available": true
+        },
+        {
+            "title": "Tinubu Must Go",
+            "author": "Akpabio Senate",
+            "available": true
+        },
+        {
+            "title": "Poverty In The Sky",
+            "author": "Tinubu",
+            "available": true
+        },
+        {
+            "title": "Deadly Hunger ",
+            "author": "Nigeria Senate",
+            "available": true
+        },
+        {
+            "title": "Una Go See Shege",
+            "author": "Unago .C. Shege",
+            "available": true
+        },
+        {
+            "title": "Nigeria Too Terrible",
+            "author": "Peter Obi",
+            "available": true
+        },
+        {
+            "title": "Devil Tool",
+            "author": "Tinubu",
+            "available": true
+        },
+        {
+            "title": "Critical Economy",
+            "author": "Unago C. Shege",
+            "available": true
+        }
+    ]
+}

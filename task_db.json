@@ -1,0 +1,12 @@
+{
+    "task": {},
+    "schedule": {
+        "House Cleaning": "3PM TODAY",
+        "Cooking": "4PM",
+        "Fetching Water": "2PM",
+        "Sex": "1PM",
+        "Hunting": "7PM"
+    },
+    "task_dict": "Sex",
+    "task_deadline": "7PM"
+}

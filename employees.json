@@ -1,0 +1,14 @@
+[
+    {
+        "Employee Name": "Gibson Effiong",
+        "Employee ID": "GIBBS@269",
+        "Department": "Operations",
+        "Salary": 800000.0
+    },
+    {
+        "Employee Name": "Joy Andrew",
+        "Employee ID": "JOY123",
+        "Department": "Marketing",
+        "Salary": 40000.0
+    }
+]

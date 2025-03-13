@@ -1,0 +1,24 @@
+{
+    "Gibson": {
+        "courses": {
+            "Maths": "A",
+            "Chemistry": "A",
+            "English": "A",
+            "Matric": "A",
+            "Data Science": "A",
+            "Computer Science": "B",
+            "Home Econs": "A"
+        },
+        "GPA": 4.86
+    },
+    "Patrick": {
+        "courses": {
+            "Physics": "A",
+            "Data": "C",
+            "Econs": "C",
+            "Maths": "A",
+            "English": "B"
+        },
+        "GPA": 4.0
+    }
+}
